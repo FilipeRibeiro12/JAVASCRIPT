@@ -62,3 +62,53 @@ Facebook
 * n1.toFixed(2)
 * n1.toFixed(2).replace ('.', ',')
 * n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+
+# Operadores 
+
+* Aritmeticos
+5 + 2 ➡ 7
+5 - 2 ➡ 3
+5 * 2 ➡ 10 ➡ Multiplicação
+5 / 2 ➡ 2.5 ➡ divisão real
+5 % 2 ➡ 1 ➡ Resto da divisão inateira
+5 ** 2 ➡ 25 ➡ potencia
+
+* obs: Cuidado!
+5 + 3 / 2 ➡ 6.5
+(5 + 3) / 2 ➡ 4
+
+* Ordem de Precedendcia dos operadores aritmeticos
+⬇ ()
+⬇ ** 
+⬇ */%
+⬇ +-
+
+* Atribuição simples
+var a = 5 + 3 ➡ 8
+var b = a % 5 ➡ 3
+var c = 5 * b ** 2 ➡ 45
+var d = 10 - a / 2 ➡ 6
+var e = 6 * 2 / d ➡ 2
+var f = b % e + 4 / e ➡ 3
+
+* Auto-atribuições
+var n = 3 ➡ 3
+n = n + 4 ➡ 7
+n = n - 5 ➡ 2
+n = n * 4 ➡ 8
+n = n / 2 ➡ 4
+n = n ** 2 ➡ 16
+n = n % 5 ➡ 1
+
+* Simplificando atribuições
+n = n + 4 ➡ 7 ➡ n+=4
+n = n - 5 ➡ 2 ➡ n-=5
+n = n * 4 ➡ 8 ➡ n*+4
+n = n / 2 ➡ 4 ➡ n/=2
+n = n ** 2 ➡ 16 ➡ n**=2
+n = n % 5 ➡ 1 ➡ n%=5
+
+* Incremento
+var x = 5
+x = x + 1 ➡ 6 ➡ x++
+x = x - 1 ➡ 5 ➡ x--
