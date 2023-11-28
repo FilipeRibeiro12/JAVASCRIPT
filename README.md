@@ -64,6 +64,7 @@ Facebook
 * n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
 
 # Operadores 
+* Aritimeticos, Atribuição, Relacionais, Logicos, Ternario
 
 * Aritmeticos
 5 + 2 ➡ 7
@@ -112,3 +113,42 @@ n = n % 5 ➡ 1 ➡ n%=5
 var x = 5
 x = x + 1 ➡ 6 ➡ x++
 x = x - 1 ➡ 5 ➡ x--
+
+* Relacionais
+5 > 2 ➡ true
+7 < 4 ➡ false
+8 >= 8 ➡ true
+9 <= 7 ➡ false
+5 == 5 ➡ true
+4 != 4 ➡ false
+
+* Identidade - obs: tres sinais difere do tipo e 2 do valor
+5 == 5 ➡ true
+5 == '5' ➡ true
+5 === '5' ➡ false
+5 === 5 ➡ true
+5 != '5' ➡ false
+5 !== '5' ➡ true
+
+* Lógicos - obs: ordem de excução e: primeiro o 'nao' o 'e' e o 'ou'
+! negação ➡ 'nao' logico ➡ ! true ou false
+
+&& conjunção ➡ 'e' logico 
+    Somente quando os dois valores sao verdadeiros que a resposta sera verdadeiro
+        true  &&  true ➡ true
+        true  &&  false ➡ false    
+        false &&  true ➡ false 
+        false &&  false ➡ false
+
+|| disjunçaõ ➡ 'ou' logico
+    Se um valor for verdadeiro a reposta sera verdadeira
+        true  || true ➡ true
+        true  || false ➡ true
+        false || true ➡ true
+        false || false ➡ false
+
+* Ternário
+?
+:
+
+teste ? 'Aprovado' : 'Reprovado'
