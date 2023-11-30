@@ -152,3 +152,34 @@ x = x - 1 ➡ 5 ➡ x--
 :
 
 teste ? 'Aprovado' : 'Reprovado'
+
+# DOM
+* O que é ?
+Document Object Model ➡ Modelo de objetos para documentos
+
+* Arvore DOM
+Começa da raiz 'window' tudo dentro do JavaScript está dentro dela.
+location ➡ diz qual a localização do site
+document ➡ documento atual
+        html
+            head
+                meta title
+            body
+                h1 p p div
+                    strong
+History ➡ guarda de qual pagina veio e para onde vai
+
+* Selecionando elementos
+ por MARCA
+getElementByTagName() ➡ Consegue selecionar varios obejtos, por ter ojetos com a mesma tag
+
+ por ID
+getElementById() ➡ Seleciona o objeto por ID
+
+ por NOME
+getElementByName() ➡
+
+ por CLASSE
+
+
+ por SELETOR
