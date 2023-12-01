@@ -171,15 +171,21 @@ History ➡ guarda de qual pagina veio e para onde vai
 
 * Selecionando elementos
  por MARCA
-getElementByTagName() ➡ Consegue selecionar varios obejtos, por ter ojetos com a mesma tag
+getElementsByTagName() ➡ Consegue selecionar varios obejtos, por ter ojetos com a mesma tag
 
  por ID
 getElementById() ➡ Seleciona o objeto por ID
 
  por NOME
-getElementByName() ➡
+getElementsByName() ➡ 
 
  por CLASSE
-
+getElementsByClassName() ➡
 
  por SELETOR
+ querySelector()
+ querySelectorAll()
+
+ # Eventos DOM
+ Tudo aquilo que pode acontecer com qualquer elemento,
+ mouseenter, mousermove, mousedown, mouseup, click, mouseout, existem varios outros...
