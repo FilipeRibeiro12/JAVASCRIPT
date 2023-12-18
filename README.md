@@ -189,3 +189,8 @@ getElementsByClassName() ➡
  # Eventos DOM
  Tudo aquilo que pode acontecer com qualquer elemento,
  mouseenter, mousermove, mousedown, mouseup, click, mouseout, existem varios outros...
+
+ # Funções
+ function ação(parametros){
+    BLOCO
+ }
