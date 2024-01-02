@@ -194,3 +194,16 @@ getElementsByClassName() ➡
  function ação(parametros){
     BLOCO
  }
+
+ # Condições em JS
+ * Sequencias 
+ Var n = 3
+ n += 2 
+ window.alert(n)
+ 5
+----------------------
+ if (condição){
+        true
+ }else{
+        false
+ }
