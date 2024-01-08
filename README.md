@@ -207,3 +207,26 @@ getElementsByClassName() ➡
  }else{
         false
  }
+
+ * Condição, multipla
+ switch (expressão){
+    case valor 1:
+
+    break //sempre tem que escrever o break
+
+    case valor 2:
+
+    break
+
+    case valor 3:
+
+    break
+
+    default:
+
+    break
+ }
+
+# exercicio 
+* imagem de planejamento de site:
+![Alt text](image.png)
