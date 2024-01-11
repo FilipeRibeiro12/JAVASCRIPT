@@ -230,3 +230,21 @@ getElementsByClassName() ➡
 # exercicio 
 * imagem de planejamento de site:
 ![Alt text](image.png)
+
+# Estrutura de Repetição
+
+* Repetições com teste no inicio
+![Alt text](image-1.png)
+
+    while(temFatia()){
+        comerFatia()
+    }
+
+* Repetições com teste no final
+![Alt text](image-2.png)
+
+do{
+
+}while(condição)
+
+* Repetições com controle
