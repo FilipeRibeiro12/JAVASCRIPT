@@ -13,3 +13,9 @@ do {
     c++
 } while (c <= 6)
 */
+  
+/*REPETIÇÃO COM CONTROLE
+for (var c = 1; c <=10; c++){
+    console.log(`Passo ${c}`)
+}
+*/
