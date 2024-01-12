@@ -248,3 +248,4 @@ do{
 }while(condição)
 
 * Repetições com controle
+![Alt text](image-3.png)
