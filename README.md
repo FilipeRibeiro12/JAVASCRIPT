@@ -250,4 +250,3 @@ do{
 * Repetições com controle
 ![Alt text](image-3.png)
  
- testando
