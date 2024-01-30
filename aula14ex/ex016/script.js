@@ -30,6 +30,4 @@ function Calcular() {
     res.innerHTML += `\u{1F3C1}`
   }
   
-  
-  
 }
