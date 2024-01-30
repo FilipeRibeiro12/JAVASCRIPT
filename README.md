@@ -249,4 +249,26 @@ do{
 
 * Repetições com controle
 ![Alt text](image-3.png)
+
+
+# Variaveis Compostas
+
+* Devem ser capazes de armazenar vários valores em uma mesma estrutura.
+ ![Alt text](image-5.png)
+
+ ![Alt text](image-4.png)
  
+num[3] = 6 ➡ cria o identificador 3 e ele recebe 6
+
+num.push(7) ➡ cria na ultima posição um identificador e ele recebe o calor que está entre parentese
+
+num.length ➡ fala quantos identificadores tem no vetor
+
+num.sort() ➡ coloca os valores em ordem crescente
+
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+num.indexOf(7) ➡ procura o valor que está dentro do parentese 
