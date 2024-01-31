@@ -272,3 +272,10 @@ num.sort() ➡ coloca os valores em ordem crescente
 ![Alt text](image-7.png)
 
 num.indexOf(7) ➡ procura o valor que está dentro do parentese 
+
+# Funções em JS
+* Funções são ações executadas assim que são chamadas ou em decorrência de algum evento.
+* Uma função pode receber parâmentros e retornar um resultado
+![Alt text](image-8.png)
+
+![Alt text](image-9.png)
