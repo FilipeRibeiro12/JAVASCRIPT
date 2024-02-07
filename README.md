@@ -260,7 +260,7 @@ do{
  
 num[3] = 6 ➡ cria o identificador 3 e ele recebe 6
 
-num.push(7) ➡ cria na ultima posição um identificador e ele recebe o calor que está entre parentese
+num.push(7) ➡ cria na ultima posição um identificador e ele recebe o valor que está entre parentese
 
 num.length ➡ fala quantos identificadores tem no vetor
 
